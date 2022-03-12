@@ -12,9 +12,7 @@ Version: 1.0.0
 Author URI: https://github.com/hexflare
 License: GPL2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
-Text Domain: wporg
-Domain Path: /languages
-License:     GPL2
+
 
 {Plugin Name} is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
