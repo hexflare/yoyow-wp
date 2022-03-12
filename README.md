@@ -2,7 +2,7 @@
 Yet another wordpress plugin for YOYOW blockchain
 
 ### Install
-#### 1. Upload to current direcotry to {wordpress path}/wp-content/plugins. 
+#### 1. Upload current directory to {wordpress path}/wp-content/plugins. 
 #### 2. Download released zip file(https://github.com/hexflare/yoyow-wp/releases) and install from wordpress admin panel.
 
 ### Usage
