@@ -16,5 +16,5 @@ Yet another wordpress plugin for YOYOW blockchain
 As for "Onchain Content Type" setting, there are 4 types of content (Post URL, Original post, Hash256 and MD5 of post content) supported for YOYOW blockchain store.
 
 #### 3. Publish onchain post
-Select "onchain" option when publish/edit a post to upload preferred content to YOYOW blochain. 
+Select "onchain" option when publish/edit a post to upload preferred content to YOYOW blockchain. 
 ![onchain_post](https://github.com/hexflare/yoyow-wp/blob/main/onchain_post.png)
